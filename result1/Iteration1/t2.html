@@ -111,33 +111,19 @@
 
     <section>
 
-        <div id="BackLink">
-            <a href="/catalog">Return to Main Menu</a>
-        </div>
-
         <div id="Catalog">
 
-            <h2>Birds</h2>
+            <form action="/login" method="post"><input type="hidden" name="_csrf" value="c955f62e-21d0-4484-987b-86d1dc00aaac"/>
+                <p>Please enter your username and password.</p>
+                <p>
+                    Username:<input name="username" /> <br />
+                    Password:<input type="password" name="password" />
+                </p>
+                <input id="login" type="submit" value="Login" />
 
-            <table>
-                <tr>
-                    <th>Product ID</th>
-                    <th>Name</th>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="/catalog/products/AV-CB-01">AV-CB-01</a>
-                    </td>
-                    <td>Amazon Parrot</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="/catalog/products/AV-SB-02">AV-SB-02</a>
-                    </td>
-                    <td>Finch</td>
-                </tr>
-            </table>
+            </form>
 
+            Need a user name and password? <a href="/accounts/create?form">Register Now!</a>
         </div>
 
     </section>

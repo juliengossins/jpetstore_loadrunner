@@ -1,4 +1,5 @@
-vuser_init()
+﻿vuser_init()
 {
-	return 0;
+	Homepage();
+	SignIn();
 }

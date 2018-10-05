@@ -1,5 +1,5 @@
-GET /catalog/categories/BIRDS HTTP/1.1
-Cookie: JSESSIONID=1004B79D691C4FD846BE9FBCF16FC280; __VCAP_ID__=c4e0174e-1afc-4044-4fbc-9d73
+GET /login HTTP/1.1
+Cookie: JSESSIONID=E7CA53C0D5B0532030C1B5F4E4D8008B; __VCAP_ID__=c4e0174e-1afc-4044-4fbc-9d73
 Referer: https://jpetstore.cfapps.io/catalog
 User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
 Accept-Encoding: gzip, deflate

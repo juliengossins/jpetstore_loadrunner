@@ -59,12 +59,14 @@
                 <img align="middle" name="img_cart" src="/images/cart.gif" />
             </a>
             <img align="middle" src="/images/separator.gif" />
-            <a href="/login">
-                Sign In
+            
+            <a href="/logout">
+                Sign Out
             </a>
-            
-            
-            
+            <img align="middle" src="/images/separator.gif"/>
+            <a href="/my/account/update?form">
+                My Account
+            </a>
             <img align="middle" src="/images/separator.gif" />
             <a href="/help.html" target="help">
                 ?
@@ -112,125 +114,61 @@
     <section>
 
         <div id="BackLink">
-            <a href="/catalog">Return to Main Menu</a>
+            <a href="/catalog/products/FL-DSH-01">Return to <span>FL-DSH-01</span></a>
         </div>
 
         <div id="Catalog">
 
-            <div id="Cart">
-
-                <h2>Shopping Cart</h2>
-
-                <form action="/cart" method="post"><input type="hidden" name="_csrf" value="7bd9b1e6-a225-4984-931f-e82d15490ef6"/>
-                    <table>
-                        <tr>
-                            <th>Item ID</th>
-                            <th>Product ID</th>
-                            <th>Description</th>
-                            <th>In Stock?</th>
-                            <th>Quantity</th>
-                            <th>List Price</th>
-                            <th>Total Cost</th>
-                            <th>&nbsp;</th>
-                        </tr>
-
-                        
-
-                        <tr>
-                            <td>
-                                <a href="/catalog/items/EST-18">
-                                    <span>EST-18</span>
-                                </a>
-                            </td>
-                            <td>
-                                <span>AV-CB-01</span>
-                            </td>
-                            <td>
-                                <span>Adult Male</span>
+            <table>
+                <tr>
+                    <td><image src="/images/cat2.gif">Great for reducing mouse populations</td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>
+                            <span>EST-15</span>
+                        </b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>
+                            <font size="4">
+                                <span>With tail</span>
                                 <span></span>
                                 <span></span>
                                 <span></span>
                                 <span></span>
-                                <span>Amazon Parrot</span>
-                            </td>
-                            <td>
-                                <span>true</span>
-                            </td>
-                            <td>
-                                <input type="hidden" value="EST-18"/>
-                                <input id="lines0.quantity" name="lines[0].quantity" value="1"/>
-                                
-                            </td>
-                            <td>
-                                $<span>193.50</span>
-                            </td>
-                            <td>
-                                $<span>193.50</span>
-                            </td>
-                            <td>
-                                <a class="Button" href="/cart?remove&amp;itemId=EST-18">Remove</a>
-                            </td>
-                        </tr>
+                                <span>Manx</span>
+                            </font>
+                        </b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Manx</td>
+                </tr>
+                <tr>
+                    
+                    <td>
+                        <span>10000</span> in stock.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        $<span>23.50</span>
+                    </td>
+                </tr>
 
-                        <tr>
-                            <td>
-                                <a href="/catalog/items/EST-19">
-                                    <span>EST-19</span>
-                                </a>
-                            </td>
-                            <td>
-                                <span>AV-SB-02</span>
-                            </td>
-                            <td>
-                                <span>Adult Male</span>
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                                <span>Finch</span>
-                            </td>
-                            <td>
-                                <span>true</span>
-                            </td>
-                            <td>
-                                <input type="hidden" value="EST-19"/>
-                                <input id="lines1.quantity" name="lines[1].quantity" value="1"/>
-                                
-                            </td>
-                            <td>
-                                $<span>15.50</span>
-                            </td>
-                            <td>
-                                $<span>15.50</span>
-                            </td>
-                            <td>
-                                <a class="Button" href="/cart?remove&amp;itemId=EST-19">Remove</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td colspan="7">
-                                Sub Total:
-                                $<span>209.00</span>
-                                <input type="submit" name="update" value="Update Cart"/>
-                            <td>&nbsp;</td>
-                        </tr>
-                    </table>
+                <tr>
+                    <td>
+                        <a href="/cart?add&amp;itemId=EST-15" class="Button">
+                            Add to Cart
+                        </a>
+                    </td>
+                </tr>
+            </table>
 
-                </form>
-
-                <a href="/my/orders/create?form" class="Button">
-                    Proceed to Checkout
-                </a>
-
-            </div>
-
-            <div id="MyList">
-                
-            </div>
-
-            <div id="Separator">&nbsp;</div>
         </div>
-
 
     </section>
 </div>

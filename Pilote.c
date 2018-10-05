@@ -7,7 +7,6 @@
 	int ItemsCount = 0;
 	int CartItemsCount = 0;
 	
-	Homepage();
 	CategoriesCount = lr_paramarr_len("Categories");
 	if(CategoriesCount == 0)
 	{

@@ -1,7 +1,48 @@
 [
     {
         "actionName": "vuser_init",
-        "steps": [],
-        "transactions": []
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: catalog",
+                "infFile": "t1.inf",
+                "time": 1538749884110
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Sign In",
+                "infFile": "t2.inf",
+                "time": 1538749885251
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: login",
+                "infFile": "t3.inf",
+                "time": 1538749888067
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "01_Display_Homepage",
+                "rawStartTime": 1538749881224,
+                "rawEndTime": 1538749884110,
+                "thinkTime": 0.0,
+                "wastedTime": 0.10666894912719727
+            },
+            {
+                "transactionName": "02_SignIn",
+                "rawStartTime": 1538749884110,
+                "rawEndTime": 1538749885251,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08464741706848145
+            },
+            {
+                "transactionName": "03_Login",
+                "rawStartTime": 1538749885251,
+                "rawEndTime": 1538749888067,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06523561477661133
+            }
+        ]
     }
 ]

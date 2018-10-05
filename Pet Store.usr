@@ -31,6 +31,8 @@ Products=Products.c
 Items=Items.c
 AddToCart=AddToCart.c
 RemoveFromCart=RemoveFromCart.c
+SignIn=SignIn.c
+SignOut=SignOut.c
 vuser_end=vuser_end.c
 [RunLogicFiles]
 Default Profile=default.usp
@@ -41,7 +43,7 @@ Default Profile=default.cfg
 [ExtraFiles]
 globals.h=
 [Modified Actions]
-vuser_init=0
+vuser_init=1
 Pilote=1
 Homepage=1
 Categories=1
@@ -49,7 +51,9 @@ Products=1
 Items=1
 AddToCart=1
 RemoveFromCart=1
-vuser_end=0
+SignIn=1
+SignOut=1
+vuser_end=1
 [Recorded Actions]
 vuser_init=0
 Pilote=0
@@ -59,6 +63,8 @@ Products=0
 Items=0
 AddToCart=0
 RemoveFromCart=0
+SignIn=0
+SignOut=0
 vuser_end=0
 [Replayed Actions]
 vuser_init=1
@@ -69,6 +75,8 @@ Products=1
 Items=1
 AddToCart=1
 RemoveFromCart=1
+SignIn=1
+SignOut=1
 vuser_end=1
 [Interpreters]
 vuser_init=cci
@@ -79,9 +87,11 @@ Products=cci
 Items=cci
 AddToCart=cci
 RemoveFromCart=cci
+SignIn=cci
+SignOut=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="01_Display_Homepage__*delimiter*__01_Display_Homepage__*delimiter*__02_Click_Category__*delimiter*__03_Click_ProductID__*delimiter*__04_Click_ItemID__*delimiter*__05_Click_AddToCart__*delimiter*__06_Click_Remove"
+Order="01_Display_Homepage__*delimiter*__01_Display_Homepage__*delimiter*__02_Click_Category__*delimiter*__03_Click_ProductID__*delimiter*__04_Click_ItemID__*delimiter*__05_Click_AddToCart__*delimiter*__06_Click_Remove__*delimiter*__02_SignIn__*delimiter*__03_Login__*delimiter*__04_SignOut"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -94,3 +104,6 @@ ActiveRunName=result1
 04_Click_ItemID=
 05_Click_AddToCart=
 06_Click_Remove=
+02_SignIn=
+03_Login=
+04_SignOut=

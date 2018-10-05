@@ -1,7 +1,22 @@
 [
     {
         "actionName": "vuser_end",
-        "steps": [],
-        "transactions": []
+        "steps": [
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: Sign Out",
+                "infFile": "t19.inf",
+                "time": 1538749911152
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "04_SignOut",
+                "rawStartTime": 1538749909111,
+                "rawEndTime": 1538749911152,
+                "thinkTime": 0.0,
+                "wastedTime": 0.061988115310668948
+            }
+        ]
     }
 ]

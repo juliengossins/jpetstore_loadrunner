@@ -1,4 +1,4 @@
-vuser_end()
+﻿vuser_end()
 {
-	return 0;
+	SignOut();
 }
