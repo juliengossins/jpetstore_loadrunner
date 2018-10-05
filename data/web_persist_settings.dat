@@ -1,0 +1,11 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2018/10/04 13:23:06
+StartRecordingIsDst_1=1
+StartRecordingGMT_2=2018/10/05 07:57:42
+StartRecordingIsDst_2=1
+[UserHomePage]
+UserHomePage=http://www.google.fr/
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1

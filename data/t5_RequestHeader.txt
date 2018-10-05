@@ -1,0 +1,10 @@
+GET /cart?add&itemId=EST-1 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: https://jpetstore.cfapps.io/catalog/items/EST-1
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: jpetstore.cfapps.io
+Connection: Keep-Alive
+Cookie: JSESSIONID=235EFEBEA607469BABAB3E876B62CF31; __VCAP_ID__=c4e0174e-1afc-4044-4fbc-9d73
+

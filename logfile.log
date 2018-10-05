@@ -1,0 +1,7 @@
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: Pilote.c:44: warning: missing return value
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: Homepage.c:34: warning: missing return value
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: Categories.c:38: warning: missing return value
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: Products.c:30: warning: missing return value
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: Items.c:25: warning: missing return value
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: AddToCart.c:30: warning: missing return value
+c:\users\ib\documents\vugen\scripts\pet store\\pre_cci.c: RemoveFromCart.c:23: warning: missing return value
