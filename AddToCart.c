@@ -1,6 +1,6 @@
 ﻿AddToCart()
 {
-	lr_start_transaction("05_Click_AddToCart");
+	lr_start_transaction("07_Click_AddToCart");
 
 	web_reg_find("Text=JPetStore Demo", 
 		LAST);
@@ -24,7 +24,7 @@
 		"Url=/favicon.ico", "Referer=", ENDITEM, 
 		LAST);
 
-	lr_end_transaction("05_Click_AddToCart",LR_AUTO);
+	lr_end_transaction("07_Click_AddToCart",LR_AUTO);
 
 	lr_think_time(3);
 }

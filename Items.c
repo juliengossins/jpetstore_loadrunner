@@ -1,6 +1,6 @@
 ﻿Items()
 {
-	lr_start_transaction("04_Click_ItemID");
+	lr_start_transaction("06_Click_ItemID");
 
 	web_reg_find("Text=JPetStore Demo", 
 		LAST);
@@ -19,7 +19,7 @@
 		"Url=/favicon.ico", "Referer=", ENDITEM, 
 		LAST);
 
-	lr_end_transaction("04_Click_ItemID",LR_AUTO);
+	lr_end_transaction("06_Click_ItemID",LR_AUTO);
 
 	lr_think_time(3);
 }

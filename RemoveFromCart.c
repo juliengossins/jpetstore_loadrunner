@@ -1,6 +1,6 @@
 ﻿RemoveFromCart()
 {
-	lr_start_transaction("06_Click_Remove");
+	lr_start_transaction("08_Click_Remove");
 
 	web_reg_find("Text=JPetStore Demo", 
 		LAST);
@@ -17,7 +17,7 @@
 		"Url=/favicon.ico", "Referer=", ENDITEM, 
 		LAST);
 
-	lr_end_transaction("06_Click_Remove",LR_AUTO);
+	lr_end_transaction("08_Click_Remove",LR_AUTO);
 
 	lr_think_time(3);
 }

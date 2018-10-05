@@ -1,6 +1,6 @@
 ﻿Categories()
 {
-	lr_start_transaction("02_Click_Category");
+	lr_start_transaction("04_Click_Category");
 
 	web_reg_find("Text=JPetStore Demo", 
 		LAST);
@@ -32,7 +32,7 @@
 
 	lr_save_string(lr_paramarr_random("Products"), "Products_Random");
 	
-	lr_end_transaction("02_Click_Category",LR_AUTO);
+	lr_end_transaction("04_Click_Category",LR_AUTO);
 
 	lr_think_time(3);
 }

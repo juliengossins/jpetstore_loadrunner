@@ -1,6 +1,6 @@
 ﻿SignOut()
 {
-	lr_start_transaction("04_SignOut");
+	lr_start_transaction("09_SignOut");
 
 	web_reg_find("Text=Sign In", 
 		LAST);
@@ -17,7 +17,7 @@
 		"Url=/favicon.ico", "Referer=", ENDITEM, 
 		LAST);
 
-	lr_end_transaction("04_SignOut",LR_AUTO);
+	lr_end_transaction("09_SignOut",LR_AUTO);
 
 	lr_think_time(3);
 }

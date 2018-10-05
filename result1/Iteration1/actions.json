@@ -6,198 +6,562 @@
                 "stepId": "STEP4",
                 "stepName": "Url: sm_fish.gif",
                 "infFile": "t4.inf",
-                "time": 1538749889326
+                "time": 1538750076653
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Url: FI-SW-01",
                 "infFile": "t5.inf",
-                "time": 1538749890570
+                "time": 1538750077971
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Url: EST-1",
                 "infFile": "t6.inf",
-                "time": 1538749891957
+                "time": 1538750079102
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: Add to Cart",
                 "infFile": "t7.inf",
-                "time": 1538749893425
+                "time": 1538750080988
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Url: EST-1",
                 "infFile": "t8.inf",
-                "time": 1538749894665
+                "time": 1538750082429
             },
             {
                 "stepId": "STEP9",
                 "stepName": "Url: Add to Cart",
                 "infFile": "t9.inf",
-                "time": 1538749896121
+                "time": 1538750083939
             },
             {
                 "stepId": "STEP10",
                 "stepName": "Url: FI-SW-01",
                 "infFile": "t10.inf",
-                "time": 1538749897253
+                "time": 1538750085345
             },
             {
                 "stepId": "STEP11",
                 "stepName": "Url: EST-1",
                 "infFile": "t11.inf",
-                "time": 1538749898513
+                "time": 1538750087267
             },
             {
                 "stepId": "STEP12",
                 "stepName": "Url: Add to Cart",
                 "infFile": "t12.inf",
-                "time": 1538749900176
+                "time": 1538750088851
             },
             {
                 "stepId": "STEP13",
-                "stepName": "Url: EST-1",
+                "stepName": "Url: FI-SW-01",
                 "infFile": "t13.inf",
-                "time": 1538749901453
+                "time": 1538750091351
             },
             {
                 "stepId": "STEP14",
-                "stepName": "Url: Add to Cart",
+                "stepName": "Url: EST-1",
                 "infFile": "t14.inf",
-                "time": 1538749902941
+                "time": 1538750092751
             },
             {
                 "stepId": "STEP15",
-                "stepName": "Url: Remove",
+                "stepName": "Url: Add to Cart",
                 "infFile": "t15.inf",
-                "time": 1538749904475
+                "time": 1538750094314
             },
             {
                 "stepId": "STEP16",
-                "stepName": "Url: Remove",
+                "stepName": "Url: EST-1",
                 "infFile": "t16.inf",
-                "time": 1538749906047
+                "time": 1538750095858
             },
             {
                 "stepId": "STEP17",
-                "stepName": "Url: Remove",
+                "stepName": "Url: Add to Cart",
                 "infFile": "t17.inf",
-                "time": 1538749907564
+                "time": 1538750097503
             },
             {
                 "stepId": "STEP18",
-                "stepName": "Url: Remove",
+                "stepName": "Url: FI-SW-01",
                 "infFile": "t18.inf",
-                "time": 1538749909097
+                "time": 1538750098654
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: EST-1",
+                "infFile": "t19.inf",
+                "time": 1538750099959
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t20.inf",
+                "time": 1538750101552
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: FI-SW-01",
+                "infFile": "t21.inf",
+                "time": 1538750102646
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Url: EST-1",
+                "infFile": "t22.inf",
+                "time": 1538750104092
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t23.inf",
+                "time": 1538750105901
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: EST-1",
+                "infFile": "t24.inf",
+                "time": 1538750107061
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t25.inf",
+                "time": 1538750108911
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: EST-1",
+                "infFile": "t26.inf",
+                "time": 1538750111246
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t27.inf",
+                "time": 1538750112860
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: EST-1",
+                "infFile": "t28.inf",
+                "time": 1538750114374
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t29.inf",
+                "time": 1538750116255
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Url: FI-SW-01",
+                "infFile": "t30.inf",
+                "time": 1538750117676
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Url: EST-1",
+                "infFile": "t31.inf",
+                "time": 1538750119184
+            },
+            {
+                "stepId": "STEP32",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t32.inf",
+                "time": 1538750120954
+            },
+            {
+                "stepId": "STEP33",
+                "stepName": "Url: EST-1",
+                "infFile": "t33.inf",
+                "time": 1538750122094
+            },
+            {
+                "stepId": "STEP34",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t34.inf",
+                "time": 1538750125369
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Url: Remove",
+                "infFile": "t35.inf",
+                "time": 1538750127222
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Url: Remove",
+                "infFile": "t36.inf",
+                "time": 1538750128941
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Url: Remove",
+                "infFile": "t37.inf",
+                "time": 1538750130793
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Url: Remove",
+                "infFile": "t38.inf",
+                "time": 1538750133522
+            },
+            {
+                "stepId": "STEP39",
+                "stepName": "Url: Remove",
+                "infFile": "t39.inf",
+                "time": 1538750135125
+            },
+            {
+                "stepId": "STEP40",
+                "stepName": "Url: Remove",
+                "infFile": "t40.inf",
+                "time": 1538750136854
+            },
+            {
+                "stepId": "STEP41",
+                "stepName": "Url: Remove",
+                "infFile": "t41.inf",
+                "time": 1538750138641
+            },
+            {
+                "stepId": "STEP42",
+                "stepName": "Url: Remove",
+                "infFile": "t42.inf",
+                "time": 1538750140157
+            },
+            {
+                "stepId": "STEP43",
+                "stepName": "Url: Remove",
+                "infFile": "t43.inf",
+                "time": 1538750142043
+            },
+            {
+                "stepId": "STEP44",
+                "stepName": "Url: Remove",
+                "infFile": "t44.inf",
+                "time": 1538750143886
+            },
+            {
+                "stepId": "STEP45",
+                "stepName": "Url: Remove",
+                "infFile": "t45.inf",
+                "time": 1538750145959
+            },
+            {
+                "stepId": "STEP46",
+                "stepName": "Url: Remove",
+                "infFile": "t46.inf",
+                "time": 1538750147450
             }
         ],
         "transactions": [
             {
-                "transactionName": "02_Click_Category",
-                "rawStartTime": 1538749888096,
-                "rawEndTime": 1538749889326,
+                "transactionName": "04_Click_Category",
+                "rawStartTime": 1538750075379,
+                "rawEndTime": 1538750076653,
                 "thinkTime": 0.0,
-                "wastedTime": 0.06710696220397949
+                "wastedTime": 0.06922459602355957
             },
             {
-                "transactionName": "03_Click_ProductID",
-                "rawStartTime": 1538749889334,
-                "rawEndTime": 1538749890570,
+                "transactionName": "05_Click_ProductID",
+                "rawStartTime": 1538750076661,
+                "rawEndTime": 1538750077972,
                 "thinkTime": 0.0,
-                "wastedTime": 0.07814598083496094
+                "wastedTime": 0.05234336853027344
             },
             {
-                "transactionName": "04_Click_ItemID",
-                "rawStartTime": 1538749890577,
-                "rawEndTime": 1538749891957,
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750077979,
+                "rawEndTime": 1538750079102,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0966346263885498
+                "wastedTime": 0.0825510025024414
             },
             {
-                "transactionName": "05_Click_AddToCart",
-                "rawStartTime": 1538749891958,
-                "rawEndTime": 1538749893425,
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750079104,
+                "rawEndTime": 1538750080988,
                 "thinkTime": 0.0,
-                "wastedTime": 0.07095146179199219
+                "wastedTime": 0.09073448181152344
             },
             {
-                "transactionName": "04_Click_ItemID",
-                "rawStartTime": 1538749893431,
-                "rawEndTime": 1538749894665,
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750080994,
+                "rawEndTime": 1538750082430,
                 "thinkTime": 0.0,
-                "wastedTime": 0.07777690887451172
+                "wastedTime": 0.06529402732849121
             },
             {
-                "transactionName": "05_Click_AddToCart",
-                "rawStartTime": 1538749894667,
-                "rawEndTime": 1538749896121,
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750082431,
+                "rawEndTime": 1538750083939,
                 "thinkTime": 0.0,
-                "wastedTime": 0.09001493453979492
+                "wastedTime": 0.09182310104370117
             },
             {
-                "transactionName": "03_Click_ProductID",
-                "rawStartTime": 1538749896131,
-                "rawEndTime": 1538749897253,
+                "transactionName": "05_Click_ProductID",
+                "rawStartTime": 1538750083948,
+                "rawEndTime": 1538750085345,
                 "thinkTime": 0.0,
-                "wastedTime": 0.06507563591003418
+                "wastedTime": 0.07008767127990723
             },
             {
-                "transactionName": "04_Click_ItemID",
-                "rawStartTime": 1538749897260,
-                "rawEndTime": 1538749898513,
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750085353,
+                "rawEndTime": 1538750087267,
                 "thinkTime": 0.0,
-                "wastedTime": 0.06359553337097168
+                "wastedTime": 0.06133532524108887
             },
             {
-                "transactionName": "05_Click_AddToCart",
-                "rawStartTime": 1538749898515,
-                "rawEndTime": 1538749900176,
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750087269,
+                "rawEndTime": 1538750088851,
                 "thinkTime": 0.0,
-                "wastedTime": 0.054245710372924808
+                "wastedTime": 0.05565905570983887
             },
             {
-                "transactionName": "04_Click_ItemID",
-                "rawStartTime": 1538749900182,
-                "rawEndTime": 1538749901453,
+                "transactionName": "05_Click_ProductID",
+                "rawStartTime": 1538750088860,
+                "rawEndTime": 1538750091351,
                 "thinkTime": 0.0,
-                "wastedTime": 0.07552170753479004
+                "wastedTime": 0.08988213539123535
             },
             {
-                "transactionName": "05_Click_AddToCart",
-                "rawStartTime": 1538749901455,
-                "rawEndTime": 1538749902941,
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750091359,
+                "rawEndTime": 1538750092751,
                 "thinkTime": 0.0,
-                "wastedTime": 0.09729218482971192
+                "wastedTime": 0.09885764122009278
             },
             {
-                "transactionName": "06_Click_Remove",
-                "rawStartTime": 1538749902957,
-                "rawEndTime": 1538749904475,
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750092753,
+                "rawEndTime": 1538750094314,
                 "thinkTime": 0.0,
-                "wastedTime": 0.05351734161376953
+                "wastedTime": 0.09618782997131348
             },
             {
-                "transactionName": "06_Click_Remove",
-                "rawStartTime": 1538749904483,
-                "rawEndTime": 1538749906047,
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750094320,
+                "rawEndTime": 1538750095859,
                 "thinkTime": 0.0,
-                "wastedTime": 0.08608508110046387
+                "wastedTime": 0.06431174278259278
             },
             {
-                "transactionName": "06_Click_Remove",
-                "rawStartTime": 1538749906054,
-                "rawEndTime": 1538749907564,
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750095860,
+                "rawEndTime": 1538750097504,
                 "thinkTime": 0.0,
-                "wastedTime": 0.08583807945251465
+                "wastedTime": 0.09032487869262696
             },
             {
-                "transactionName": "06_Click_Remove",
-                "rawStartTime": 1538749907574,
-                "rawEndTime": 1538749909097,
+                "transactionName": "05_Click_ProductID",
+                "rawStartTime": 1538750097513,
+                "rawEndTime": 1538750098654,
                 "thinkTime": 0.0,
-                "wastedTime": 0.04752159118652344
+                "wastedTime": 0.04831862449645996
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750098661,
+                "rawEndTime": 1538750099959,
+                "thinkTime": 0.0,
+                "wastedTime": 0.058185577392578128
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750099961,
+                "rawEndTime": 1538750101552,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08957219123840332
+            },
+            {
+                "transactionName": "05_Click_ProductID",
+                "rawStartTime": 1538750101562,
+                "rawEndTime": 1538750102646,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04982256889343262
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750102654,
+                "rawEndTime": 1538750104092,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09202075004577637
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750104093,
+                "rawEndTime": 1538750105901,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05962491035461426
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750105907,
+                "rawEndTime": 1538750107061,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09583711624145508
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750107063,
+                "rawEndTime": 1538750108912,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06520724296569824
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750108918,
+                "rawEndTime": 1538750111246,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08452272415161133
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750111248,
+                "rawEndTime": 1538750112860,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09172797203063965
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750112866,
+                "rawEndTime": 1538750114374,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08085322380065918
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750114376,
+                "rawEndTime": 1538750116255,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08059859275817871
+            },
+            {
+                "transactionName": "05_Click_ProductID",
+                "rawStartTime": 1538750116264,
+                "rawEndTime": 1538750117677,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09167075157165528
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750117684,
+                "rawEndTime": 1538750119184,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08405280113220215
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750119186,
+                "rawEndTime": 1538750120954,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09672784805297852
+            },
+            {
+                "transactionName": "06_Click_ItemID",
+                "rawStartTime": 1538750120961,
+                "rawEndTime": 1538750122094,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09278321266174317
+            },
+            {
+                "transactionName": "07_Click_AddToCart",
+                "rawStartTime": 1538750122095,
+                "rawEndTime": 1538750125369,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09447789192199707
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750125385,
+                "rawEndTime": 1538750127222,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09614014625549317
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750127230,
+                "rawEndTime": 1538750128942,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0919189453125
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750128949,
+                "rawEndTime": 1538750130793,
+                "thinkTime": 0.0,
+                "wastedTime": 0.10164070129394531
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750130801,
+                "rawEndTime": 1538750133522,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07740926742553711
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750133530,
+                "rawEndTime": 1538750135125,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09130311012268067
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750135132,
+                "rawEndTime": 1538750136854,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09225344657897949
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750136862,
+                "rawEndTime": 1538750138641,
+                "thinkTime": 0.0,
+                "wastedTime": 0.054047346115112308
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750138649,
+                "rawEndTime": 1538750140157,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09550809860229492
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750140164,
+                "rawEndTime": 1538750142043,
+                "thinkTime": 0.0,
+                "wastedTime": 0.09942626953125
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750142051,
+                "rawEndTime": 1538750143886,
+                "thinkTime": 0.0,
+                "wastedTime": 0.060411930084228519
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750143894,
+                "rawEndTime": 1538750145959,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08904814720153809
+            },
+            {
+                "transactionName": "08_Click_Remove",
+                "rawStartTime": 1538750145969,
+                "rawEndTime": 1538750147450,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05400276184082031
             }
         ]
     }

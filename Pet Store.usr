@@ -91,7 +91,7 @@ SignIn=cci
 SignOut=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="01_Display_Homepage__*delimiter*__01_Display_Homepage__*delimiter*__02_Click_Category__*delimiter*__03_Click_ProductID__*delimiter*__04_Click_ItemID__*delimiter*__05_Click_AddToCart__*delimiter*__06_Click_Remove__*delimiter*__02_SignIn__*delimiter*__03_Login__*delimiter*__04_SignOut"
+Order="01_Display_Homepage__*delimiter*__01_Display_Homepage__*delimiter*__04_Click_Category__*delimiter*__05_Click_ProductID__*delimiter*__06_Click_ItemID__*delimiter*__07_Click_AddToCart__*delimiter*__08_Click_Remove__*delimiter*__02_SignIn__*delimiter*__03_Login__*delimiter*__09_SignOut"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -99,11 +99,11 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
 01_Display_Homepage=
-02_Click_Category=
-03_Click_ProductID=
-04_Click_ItemID=
-05_Click_AddToCart=
-06_Click_Remove=
+04_Click_Category=
+05_Click_ProductID=
+06_Click_ItemID=
+07_Click_AddToCart=
+08_Click_Remove=
 02_SignIn=
 03_Login=
-04_SignOut=
+09_SignOut=
