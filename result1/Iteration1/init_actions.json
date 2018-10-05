@@ -6,42 +6,42 @@
                 "stepId": "STEP1",
                 "stepName": "Url: catalog",
                 "infFile": "t1.inf",
-                "time": 1538750069186
+                "time": 1538750767188
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: Sign In",
                 "infFile": "t2.inf",
-                "time": 1538750072193
+                "time": 1538750768634
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: login",
                 "infFile": "t3.inf",
-                "time": 1538750075350
+                "time": 1538750772506
             }
         ],
         "transactions": [
             {
                 "transactionName": "01_Display_Homepage",
-                "rawStartTime": 1538750066132,
-                "rawEndTime": 1538750069186,
+                "rawStartTime": 1538750764094,
+                "rawEndTime": 1538750767189,
                 "thinkTime": 0.0,
-                "wastedTime": 0.10477232933044434
+                "wastedTime": 0.11319422721862793
             },
             {
                 "transactionName": "02_SignIn",
-                "rawStartTime": 1538750069186,
-                "rawEndTime": 1538750072193,
+                "rawStartTime": 1538750767189,
+                "rawEndTime": 1538750768635,
                 "thinkTime": 0.0,
-                "wastedTime": 0.09318256378173828
+                "wastedTime": 0.08395075798034668
             },
             {
                 "transactionName": "03_Login",
-                "rawStartTime": 1538750072193,
-                "rawEndTime": 1538750075350,
+                "rawStartTime": 1538750768635,
+                "rawEndTime": 1538750772506,
                 "thinkTime": 0.0,
-                "wastedTime": 0.07090640068054199
+                "wastedTime": 0.0680701732635498
             }
         ]
     }

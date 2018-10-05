@@ -114,61 +114,89 @@
     <section>
 
         <div id="BackLink">
-            <a href="/catalog/products/K9-RT-02">Return to <span>K9-RT-02</span></a>
+            <a href="/catalog">Return to Main Menu</a>
         </div>
 
         <div id="Catalog">
 
-            <table>
-                <tr>
-                    <td><image src="/images/dog5.gif">Great hunting dog</td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>
-                            <span>EST-25</span>
-                        </b>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>
-                            <font size="4">
+            <div id="Cart">
+
+                <h2>Shopping Cart</h2>
+
+                <form action="/cart" method="post"><input type="hidden" name="_csrf" value="0878efcb-2c99-4ecf-8502-068ed3516560"/>
+                    <table>
+                        <tr>
+                            <th>Item ID</th>
+                            <th>Product ID</th>
+                            <th>Description</th>
+                            <th>In Stock?</th>
+                            <th>Quantity</th>
+                            <th>List Price</th>
+                            <th>Total Cost</th>
+                            <th>&nbsp;</th>
+                        </tr>
+
+                        
+
+                        <tr>
+                            <td>
+                                <a href="/catalog/items/EST-21">
+                                    <span>EST-21</span>
+                                </a>
+                            </td>
+                            <td>
+                                <span>FI-FW-02</span>
+                            </td>
+                            <td>
                                 <span>Adult Female</span>
                                 <span></span>
                                 <span></span>
                                 <span></span>
                                 <span></span>
-                                <span>Labrador Retriever</span>
-                            </font>
-                        </b>
-                    </td>
-                </tr>
-                <tr>
-                    <td>Labrador Retriever</td>
-                </tr>
-                <tr>
-                    
-                    <td>
-                        <span>10000</span> in stock.
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        $<span>325.29</span>
-                    </td>
-                </tr>
+                                <span>Goldfish</span>
+                            </td>
+                            <td>
+                                <span>true</span>
+                            </td>
+                            <td>
+                                <input type="hidden" value="EST-21"/>
+                                <input id="lines0.quantity" name="lines[0].quantity" value="1"/>
+                                
+                            </td>
+                            <td>
+                                $<span>5.29</span>
+                            </td>
+                            <td>
+                                $<span>5.29</span>
+                            </td>
+                            <td>
+                                <a class="Button" href="/cart?remove&amp;itemId=EST-21">Remove</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                Sub Total:
+                                $<span>5.29</span>
+                                <input type="submit" name="update" value="Update Cart"/>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </table>
 
-                <tr>
-                    <td>
-                        <a href="/cart?add&amp;itemId=EST-25" class="Button">
-                            Add to Cart
-                        </a>
-                    </td>
-                </tr>
-            </table>
+                </form>
 
+                <a href="/my/orders/create?form" class="Button">
+                    Proceed to Checkout
+                </a>
+
+            </div>
+
+            <div id="MyList">
+                
+            </div>
+
+            <div id="Separator">&nbsp;</div>
         </div>
+
 
     </section>
 </div>

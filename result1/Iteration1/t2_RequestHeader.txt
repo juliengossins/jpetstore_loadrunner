@@ -1,5 +1,5 @@
 GET /login HTTP/1.1
-Cookie: JSESSIONID=6D265D548AC1548E324EB6947FB8B292; __VCAP_ID__=c4e0174e-1afc-4044-4fbc-9d73
+Cookie: JSESSIONID=D49E590BA33DC1296900EBAB6770565E; __VCAP_ID__=c4e0174e-1afc-4044-4fbc-9d73
 Referer: https://jpetstore.cfapps.io/catalog
 User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
 Accept-Encoding: gzip, deflate

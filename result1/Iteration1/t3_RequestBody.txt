@@ -1,1 +1,1 @@
-"_csrf=0e072f5c-ddc5-4bf3-a2c1-adc6486d86a3&username=jgpetstore&password=azertyuiop"
+"_csrf=b80162aa-689a-495a-8f05-355d58d4d71b&username=jgpetstore&password=azertyuiop"

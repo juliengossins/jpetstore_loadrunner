@@ -43,8 +43,8 @@
 		"Mode=HTML", 
 		ITEMDATA, 
 		"Name=_csrf", "Value={csrf_1}", ENDITEM, 
-		"Name=username", "Value=jgpetstore", ENDITEM, 
-		"Name=password", "Value=azertyuiop", ENDITEM, 
+		"Name=username", "Value={User_ID}", ENDITEM, 
+		"Name=password", "Value={User_Password}", ENDITEM, 
 		EXTRARES, 
 		"Url=/favicon.ico", "Referer=", ENDITEM, 
 		LAST);
